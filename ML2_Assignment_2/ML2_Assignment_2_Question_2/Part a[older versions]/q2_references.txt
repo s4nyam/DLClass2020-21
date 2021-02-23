@@ -1,0 +1,7 @@
+How can l use the pre-trained Resnet to extract feautres from my own dataset? - vision - PyTorch Forums
+Feature extraction with PyTorch pretrained models | Kaggle
+Transfer Learning with ResNet in PyTorch | Pluralsight
+python - Extract features from pretrained resnet50 in pytorch - Stack Overflow
+python - Extract features from last hidden layer Pytorch Resnet18 - Stack Overflow
+
+https://stackoverflow.com/questions/46578504/how-to-get-values-of-penultimate-layer-in-convolutional-neural-networkcnn

@@ -1,0 +1,1 @@
+# finetune-ResNet50-for-CIFAR10
